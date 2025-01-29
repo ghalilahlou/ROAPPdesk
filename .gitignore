@@ -1,0 +1,1 @@
+venv/\n__pycache__/\ndist/\nbuild/\n*.pyc\n*.pyo\n*.exe\n*.app\n*.log
